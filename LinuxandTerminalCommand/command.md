@@ -24,6 +24,7 @@ you can use a virtual box to crreate a linux os of your desire flavour and run t
 >NOTE: Linux comes in with default bash you can use more advance zsh in place of bash shell
 
 # Commands
+ ## highly recommend to run the given zsh commands on a linux since some commands are different for powershell
 
  1. ls command and it's variations
     - ls -a
