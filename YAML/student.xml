@@ -1,0 +1,10 @@
+<xml version="1.0" encoding="UTF-8">
+<school name="abc" principle="xyz">
+    <students>
+        <student>
+            <roll_no>1</roll_no>
+            <name>a</name>
+        </student>
+    </students>
+   
+</school>

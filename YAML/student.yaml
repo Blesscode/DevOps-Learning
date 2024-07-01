@@ -1,0 +1,12 @@
+#yaml
+---
+school:
+ - name: "abc"
+   principal: "xyz"
+   students:
+   - roll_no: 1
+     name : a
+   - roll_no: 2
+     name: b  
+...
+

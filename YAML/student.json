@@ -1,0 +1,18 @@
+{
+    "school":[
+        {
+            "name":"abc",
+            "principle":"abc",
+            "student":[
+                {
+                "roll_no":"1",
+                "name":"a"
+                },
+                {
+                    "roll_no":"2",
+                    "name":"b"
+                }
+            ]
+        }
+    ]
+}
